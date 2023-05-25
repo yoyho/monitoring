@@ -1,15 +1,17 @@
-## Website Status
-https://veg.linlim.repl.co: Success
-https://ko.limkco.repl.co: Success
-https://su--yoyholee.repl.co: Success
-https://v2ray.yoyho.repl.co: Success
-https://V2.sukure.repl.co: Success
-https://v.chavir.repl.co: Success
-https://tote.kaikaixin.repl.co: Success
-https://k2.shilh.repl.co: Success
-https://rows--zixk.repl.co: Success
-https://tr--slind.repl.co: Success
-https://beaspy--hting.repl.co: Success
-https://chatai--cokio.repl.co: Success
-https://game-example--rdianc.repl.co: Success
-
+## 网站状态
+https://veg.linlim.repl.co: 成功
+https://ko.limkco.repl.co: 成功
+https://su--yoyholee.repl.co: 成功
+https://v2ray.yoyho.repl.co: 成功
+https://V2.sukure.repl.co: 成功
+https://v.chavir.repl.co: 成功
+https://tote.kaikaixin.repl.co: 成功
+https://k2.shilh.repl.co: 成功
+https://rows--zixk.repl.co: 成功
+https://tr--slind.repl.co: 成功
+https://beaspy--hting.repl.co: 失败 (403)
+https://chatai--cokio.repl.co: 成功
+https://game-example--rdianc.repl.co: 成功
+https://chatgpt-ai-jet.vercel.app: 成功
+https://chat-ai-five-orpin.vercel.app: 失败 (404)
+https://ai-assistant-five-theta.vercel.app: 成功
