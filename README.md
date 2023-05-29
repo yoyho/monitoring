@@ -16,6 +16,7 @@ https://moo.zxco.repl.co: 成功
 https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
 https://deo.babox.repl.co: 成功
+https://qi.limqin.repl.co: 成功
 https://chatgpt-ai-jet.vercel.app: 成功
 https://ai-assistant-five-theta.vercel.app: 成功
 https://bing-ai-coral.vercel.app: 失败 (302)
