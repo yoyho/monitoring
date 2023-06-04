@@ -19,7 +19,7 @@ https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 成功
 https://ys.pyxzp.repl.co: 成功
 https://ssd.zockq.repl.co: 成功
-https://lh9fvz-8080.csb.app: 成功
+https://lh9fvz-8080.csb.app: 失败 (无响应)
 http://u17sxl-8080.csb.app: 失败 (502)
 https://chatgpt-ai-jet.vercel.app: 成功
 https://ai-assistant-five-theta.vercel.app: 成功
