@@ -5,7 +5,7 @@ https://su--yoyholee.repl.co: 失败 (403)
 https://v2ray.yoyho.repl.co: 成功
 https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 成功
-https://tote.kaikaixin.repl.co: 成功
+https://tote.kaikaixin.repl.co: 失败 (403)
 https://k2.shilh.repl.co: 成功
 https://rows--zixk.repl.co: 成功
 https://tr--slind.repl.co: 成功
@@ -17,7 +17,7 @@ https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
 https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 成功
-https://ys.pyxzp.repl.co: 成功
+https://ys.pyxzp.repl.co: 失败 (403)
 https://ssd.zockq.repl.co: 成功
 https://lh9fvz-8080.csb.app: 成功
 http://u17sxl-8080.csb.app: 失败 (502)
