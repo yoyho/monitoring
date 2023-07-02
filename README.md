@@ -9,7 +9,7 @@ https://bing-ai-coral.vercel.app: 失败 (302)
 https://veg.linlim.repl.co: 成功
 https://ko.limkco.repl.co: 成功
 https://su--yoyholee.repl.co: 成功
-https://v2ray.yoyho.repl.co: 失败 (无响应)
+https://v2ray.yoyho.repl.co: 成功
 https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 成功
 https://tote.kaikaixin.repl.co: 失败 (403)
@@ -30,7 +30,7 @@ https://vi.zogzr.repl.co: 成功
 https://ls.tpjow.repl.co: 成功
 https://Love.cfvqw.repl.co: 成功
 https://apping.eywjx.repl.co: 成功
-https://mization.edpjg.repl.co: 失败 (无响应)
+https://mization.edpjg.repl.co: 成功
 https://ypto.tnpyv.repl.co: 成功
 https://figura.hpbmm.repl.co: 成功
 https://oufile--flinthill.repl.co: 失败 (404)
