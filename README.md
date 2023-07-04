@@ -19,13 +19,13 @@ https://tr--slind.repl.co: 成功
 https://beaspy--hting.repl.co: 成功
 https://chatai--cokio.repl.co: 成功
 https://game-example--rdianc.repl.co: 成功
-https://moo.zxco.repl.co: 成功
+https://moo.zxco.repl.co: 失败 (502)
 https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
-https://deo.babox.repl.co: 失败 (无响应)
+https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 成功
 https://ys.pyxzp.repl.co: 失败 (403)
-https://ssd.zockq.repl.co: 失败 (502)
+https://ssd.zockq.repl.co: 成功
 https://vi.zogzr.repl.co: 失败 (403)
 https://ls.tpjow.repl.co: 成功
 https://Love.cfvqw.repl.co: 成功
