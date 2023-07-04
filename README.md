@@ -15,7 +15,7 @@ https://v.chavir.repl.co: 成功
 https://tote.kaikaixin.repl.co: 成功
 https://k2.shilh.repl.co: 成功
 https://rows--zixk.repl.co: 失败 (502)
-https://tr--slind.repl.co: 成功
+https://tr--slind.repl.co: 失败 (无响应)
 https://beaspy--hting.repl.co: 成功
 https://chatai--cokio.repl.co: 成功
 https://game-example--rdianc.repl.co: 成功
@@ -27,9 +27,9 @@ https://qi.limqin.repl.co: 成功
 https://ys.pyxzp.repl.co: 失败 (403)
 https://ssd.zockq.repl.co: 成功
 https://vi.zogzr.repl.co: 失败 (403)
-https://ls.tpjow.repl.co: 失败 (403)
-https://Love.cfvqw.repl.co: 成功
-https://apping.eywjx.repl.co: 成功
+https://ls.tpjow.repl.co: 成功
+https://Love.cfvqw.repl.co: 失败 (403)
+https://apping.eywjx.repl.co: 失败 (无响应)
 https://mization.edpjg.repl.co: 成功
 https://ypto.tnpyv.repl.co: 成功
 https://figura.hpbmm.repl.co: 成功
