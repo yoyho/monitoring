@@ -25,7 +25,7 @@ https://ask.skzey.repl.co: 成功
 https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 失败 (403)
 https://ys.pyxzp.repl.co: 成功
-https://ssd.zockq.repl.co: 失败 (无响应)
+https://ssd.zockq.repl.co: 成功
 https://vi.zogzr.repl.co: 成功
 https://ls.tpjow.repl.co: 失败 (403)
 https://Love.cfvqw.repl.co: 成功
