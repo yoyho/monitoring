@@ -11,10 +11,10 @@ https://ko.limkco.repl.co: 成功
 https://su--yoyholee.repl.co: 失败 (无响应)
 https://v2ray.yoyho.repl.co: 失败 (无响应)
 https://V2.sukure.repl.co: 成功
-https://v.chavir.repl.co: 失败 (无响应)
+https://v.chavir.repl.co: 成功
 https://tote.kaikaixin.repl.co: 失败 (403)
 https://k2.shilh.repl.co: 成功
-https://rows--zixk.repl.co: 失败 (无响应)
+https://rows--zixk.repl.co: 成功
 https://tr--slind.repl.co: 成功
 https://beaspy--hting.repl.co: 成功
 https://chatai--cokio.repl.co: 成功
