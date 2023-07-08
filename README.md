@@ -1,5 +1,5 @@
 ## 网站状态
-https://chat-zx.zeabur.app: 失败 (302)
+https://chat-zx.zeabur.app: 失败 (502)
 https://chat-beta-woad.vercel.app: 失败 (302)
 https://lh9fvz-8080.csb.app: 失败 (502)
 http://u17sxl-8080.csb.app: 失败 (502)
@@ -30,7 +30,7 @@ https://vi.zogzr.repl.co: 成功
 https://ls.tpjow.repl.co: 成功
 https://Love.cfvqw.repl.co: 失败 (403)
 https://apping.eywjx.repl.co: 失败 (403)
-https://mization.edpjg.repl.co: 成功
+https://mization.edpjg.repl.co: 失败 (403)
 https://ypto.tnpyv.repl.co: 成功
 https://figura.hpbmm.repl.co: 成功
 https://oufile--flinthill.repl.co: 失败 (404)
