@@ -1,5 +1,5 @@
 ## 网站状态
-https://chat-zx.zeabur.app: 失败 (无响应)
+https://chat-zx.zeabur.app: 失败 (502)
 https://chat-beta-woad.vercel.app: 失败 (302)
 https://lh9fvz-8080.csb.app: 失败 (502)
 http://u17sxl-8080.csb.app: 失败 (502)
@@ -7,8 +7,8 @@ https://chatgpt-ai-jet.vercel.app: 成功
 https://ai-assistant-five-theta.vercel.app: 成功
 https://bing-ai-coral.vercel.app: 失败 (302)
 https://veg.linlim.repl.co: 成功
-https://ko.limkco.repl.co: 失败 (无响应)
-https://su--yoyholee.repl.co: 失败 (403)
+https://ko.limkco.repl.co: 成功
+https://su--yoyholee.repl.co: 成功
 https://v2ray.yoyho.repl.co: 成功
 https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 成功
