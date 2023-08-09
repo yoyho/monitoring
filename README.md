@@ -22,7 +22,7 @@ https://game-example--rdianc.repl.co: 成功
 https://moo.zxco.repl.co: 成功
 https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
-https://deo.babox.repl.co: 失败 (502)
+https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 成功
 https://ys.pyxzp.repl.co: 成功
 https://ssd.zockq.repl.co: 成功
