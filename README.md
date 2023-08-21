@@ -6,9 +6,9 @@ http://u17sxl-8080.csb.app: 失败 (502)
 https://chatgpt-ai-jet.vercel.app: 成功
 https://ai-assistant-five-theta.vercel.app: 成功
 https://bing-ai-coral.vercel.app: 失败 (302)
-https://veg.linlim.repl.co: 成功
+https://veg.linlim.repl.co: 失败 (无响应)
 https://ko.limkco.repl.co: 成功
-https://su--yoyholee.repl.co: 成功
+https://su--yoyholee.repl.co: 失败 (403)
 https://v2ray.yoyho.repl.co: 成功
 https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 成功
@@ -31,7 +31,7 @@ https://ls.tpjow.repl.co: 成功
 https://Love.cfvqw.repl.co: 失败 (403)
 https://apping.eywjx.repl.co: 成功
 https://mization.edpjg.repl.co: 成功
-https://ypto.tnpyv.repl.co: 失败 (403)
+https://ypto.tnpyv.repl.co: 成功
 https://figura.hpbmm.repl.co: 成功
 https://oufile--flinthill.repl.co: 失败 (无响应)
 https://deployment-27500-uffizzixray-ss55.app.uffizzi.com: 失败 (404)
