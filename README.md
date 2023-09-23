@@ -26,14 +26,14 @@ https://deo.babox.repl.co: 成功
 https://qi.limqin.repl.co: 成功
 https://ys.pyxzp.repl.co: 成功
 https://ssd.zockq.repl.co: 成功
-https://vi.zogzr.repl.co: 成功
+https://vi.zogzr.repl.co: 失败 (403)
 https://ls.tpjow.repl.co: 成功
 https://Love.cfvqw.repl.co: 成功
 https://apping.eywjx.repl.co: 成功
 https://mization.edpjg.repl.co: 成功
 https://ypto.tnpyv.repl.co: 成功
 https://figura.hpbmm.repl.co: 成功
-https://oufile--flinthill.repl.co: 失败 (429)
+https://oufile--flinthill.repl.co: 失败 (404)
 https://deployment-27500-uffizzixray-ss55.app.uffizzi.com: 失败 (404)
 https://cloud-limve.cloud.okteto.net: 成功
 https://turbo.flinthill.repl.co: 失败 (404)
