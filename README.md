@@ -6,13 +6,13 @@ http://u17sxl-8080.csb.app: 失败 (308)
 https://chatgpt-ai-jet.vercel.app: 成功
 https://ai-assistant-five-theta.vercel.app: 成功
 https://bing-ai-coral.vercel.app: 失败 (302)
-https://veg.linlim.repl.co: 成功
+https://veg.linlim.repl.co: 失败 (403)
 https://ko.limkco.repl.co: 成功
 https://su--yoyholee.repl.co: 成功
 https://v2ray.yoyho.repl.co: 成功
 https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 成功
-https://tote.kaikaixin.repl.co: 失败 (403)
+https://tote.kaikaixin.repl.co: 成功
 https://k2.shilh.repl.co: 成功
 https://rows--zixk.repl.co: 成功
 https://tr--slind.repl.co: 成功
@@ -23,8 +23,8 @@ https://moo.zxco.repl.co: 成功
 https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
 https://deo.babox.repl.co: 失败 (403)
-https://qi.limqin.repl.co: 失败 (403)
-https://ys.pyxzp.repl.co: 成功
+https://qi.limqin.repl.co: 成功
+https://ys.pyxzp.repl.co: 失败 (403)
 https://ssd.zockq.repl.co: 成功
 https://vi.zogzr.repl.co: 成功
 https://ls.tpjow.repl.co: 成功
@@ -36,4 +36,4 @@ https://figura.hpbmm.repl.co: 成功
 https://oufile--flinthill.repl.co: 失败 (404)
 https://deployment-27500-uffizzixray-ss55.app.uffizzi.com: 失败 (404)
 https://cloud-limve.cloud.okteto.net: 成功
-https://turbo.flinthill.repl.co: 失败 (404)
+https://turbo.flinthill.repl.co: 失败 (无响应)
