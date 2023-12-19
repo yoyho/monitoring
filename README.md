@@ -18,8 +18,8 @@ https://rows--zixk.repl.co: 成功
 https://tr--slind.repl.co: 成功
 https://beaspy--hting.repl.co: 成功
 https://chatai--cokio.repl.co: 成功
-https://game-example--rdianc.repl.co: 失败 (404)
-https://moo.zxco.repl.co: 成功
+https://game-example--rdianc.repl.co: 失败 (429)
+https://moo.zxco.repl.co: 失败 (403)
 https://sak.kmco.repl.co: 成功
 https://ask.skzey.repl.co: 成功
 https://deo.babox.repl.co: 成功
