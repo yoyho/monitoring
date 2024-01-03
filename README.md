@@ -10,7 +10,7 @@ https://veg.linlim.repl.co: 成功
 https://ko.limkco.repl.co: 成功
 https://su--yoyholee.repl.co: 失败 (无响应)
 https://v2ray.yoyho.repl.co: 失败 (无响应)
-https://V2.sukure.repl.co: 失败 (无响应)
+https://V2.sukure.repl.co: 成功
 https://v.chavir.repl.co: 失败 (无响应)
 https://tote.kaikaixin.repl.co: 失败 (无响应)
 https://k2.shilh.repl.co: 失败 (无响应)
@@ -26,14 +26,14 @@ https://deo.babox.repl.co: 失败 (无响应)
 https://qi.limqin.repl.co: 失败 (无响应)
 https://ys.pyxzp.repl.co: 失败 (无响应)
 https://ssd.zockq.repl.co: 失败 (无响应)
-https://vi.zogzr.repl.co: 成功
+https://vi.zogzr.repl.co: 失败 (无响应)
 https://ls.tpjow.repl.co: 失败 (无响应)
 https://Love.cfvqw.repl.co: 失败 (无响应)
-https://apping.eywjx.repl.co: 成功
+https://apping.eywjx.repl.co: 失败 (无响应)
 https://mization.edpjg.repl.co: 失败 (无响应)
 https://ypto.tnpyv.repl.co: 失败 (无响应)
 https://figura.hpbmm.repl.co: 失败 (无响应)
-https://oufile--flinthill.repl.co: 失败 (429)
+https://oufile--flinthill.repl.co: 失败 (无响应)
 https://deployment-27500-uffizzixray-ss55.app.uffizzi.com: 失败 (404)
 https://cloud-limve.cloud.okteto.net: 成功
 https://turbo.flinthill.repl.co: 失败 (429)
