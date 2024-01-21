@@ -8,7 +8,7 @@ https://ai-assistant-five-theta.vercel.app: 成功
 https://bing-ai-coral.vercel.app: 失败 (302)
 https://veg.linlim.repl.co: 失败 (308)
 https://ko.limkco.repl.co: 失败 (308)
-https://su--yoyholee.repl.co: 失败 (无响应)
+https://su--yoyholee.repl.co: 失败 (308)
 https://v2ray.yoyho.repl.co: 失败 (308)
 https://V2.sukure.repl.co: 失败 (308)
 https://v.chavir.repl.co: 失败 (308)
